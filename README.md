@@ -22,7 +22,7 @@ A beginner-friendly Python project that checks students' multiple-choice questio
 4. Run the Python file:
 
 ```bash
-python MCQS checker.py
+python "MCQS checker.py"
 ```
 
 ## About
